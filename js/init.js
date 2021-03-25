@@ -7,6 +7,6 @@ firebase.initializeApp({
     projectId: "chatcbg41",
     storageBucket: "chatcbg41.appspot.com",
     messagingSenderId: "600922779707",
-    appId: "1:600922779707:web:ccada4f50a3b22305a2c1e",
-    measurementId: "G-710YJEFM61"
+    appId: "1:600922779707:web:3305b7b2eaef9dd55a2c1e",
+    measurementId: "G-CT9YZWEDJR"
     });
